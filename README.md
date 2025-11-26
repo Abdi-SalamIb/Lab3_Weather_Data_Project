@@ -29,7 +29,7 @@ Väderdata analys med C# och SQLite (Oktober-November 2016)
 - 156,534 dataposter
 - 58 dagar analyserade
 - 1 balkondörröppning detekterad
-- Mögelriskformel: `Risk = (0.5 × T) + (0.8 × RH)`
+- Mögelriskformel
 
 ## Användning
 
